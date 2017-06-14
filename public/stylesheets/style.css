@@ -6,7 +6,15 @@ body {
 a {
   color: #00B7FF;
 }
-.blue {
-  color: blue;
-  background-color: pink;
+.navbar{
+  background-color: brown;
+  height: 85px;
+
+}
+left-hide-on-med-and-down{
+  font-size: 35px;
+}
+#map {
+ height: 400px;
+ width: 100%;
 }
